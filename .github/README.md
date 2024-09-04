@@ -1,3 +1,4 @@
+Когда фикс постоянной нагрузки в 100% видеокарты и 85 - 90 градусов видеокарты на постоянной основе?
 <p align="center">
   <a href="https://github.com/OGSR/OGSR-Engine/releases/latest"><img src="https://img.shields.io/github/release/OGSR/OGSR-Engine.svg?style=flat-square" alt="GitHub release"></a>
   <a href="https://github.com/OGSR/OGSR-Engine/releases/latest"><img src="https://img.shields.io/github/downloads/OGSR/OGSR-Engine/total.svg?style=flat-square" alt="Total downloads"></a>
